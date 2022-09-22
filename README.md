@@ -1,3 +1,4 @@
 # Email-Administration
-You can use this software to create an email acc and password for new hires in your organistation
 Real life implementation of JAVA and OOP
+This application can perform task like:
+Genrating email , Determine Department , Genrate random password 
